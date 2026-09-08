@@ -1,0 +1,24 @@
+{
+  "name": "Another citadel calculator",
+  "short_name": "Citadel",
+  "description": "Total Battle citadel attack planner",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#183A28",
+  "theme_color": "#183A28",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
